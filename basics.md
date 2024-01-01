@@ -18,8 +18,8 @@ These are common frame sizes:
 2. SS: shutter speed. (slower SS -> more light)
 3. ISO: how sensitive the camer sensor(usually CMOS) is to light. (higher ISO -> more light)
 
-Notice:
+Higher AP/ISO & slower SS will increase exposure, **but**:
 
-1. higher AP will increase exposure, but if AP is too high it may hurt image quality/sharpness :(
-2. slower SS will increase exposure, but if we were shooting moving targets & SS is not quick enough, we may get blury photos :(
-3. higher ISO will increase exposure, but high ISO -> more noise -> lower image quality :(
+1. if AP too high it may hurt image quality/sharpness :(
+2. if we were shooting moving targets & SS is not quick enough, we may get blury photos :(
+3. high ISO -> more noise -> lower image quality :(
